@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gexo173
 - 👀 I’m interested in Artificial Intelligence, Machine Learning, Big Data processes and Cybersecurity
-- 🌱 I’m currently learning Software Engineering at Laval University
+- 🌱 I'm a soon to be student in Software Engineering at Laval University
 - 📫 How to reach me : @BencheikhAymane on Twitter
 
 <!---
