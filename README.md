@@ -3,6 +3,8 @@
 - 🌱 I'm a third year student in Software Engineering at Université Laval
 - 📫 How to reach me : Aymane Bencheikh on Linkedin
 
+
+
 - 👋 Bonjour, je m'appelle Mohamed Aymane Bencheikh
 - 👀 J'ai une affinité pour l'intelligence artificielle, plus particulièrement en ce qui à trait l'apprentissage automatique et l'analyse de données.
 - 🌱 J'en suis à ma troisième année en génie logiciel à l'Université Laval
