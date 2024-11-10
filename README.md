@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @gexo173
+- 👋 Hi, I’m Mohamed Aymane Bencheikh
 - 👀 I’m interested in Artificial Intelligence, Machine Learning, Big Data processes and Cybersecurity
-- 🌱 I'm a soon to be student in Software Engineering at Laval University
+- 🌱 I'm a third year student in Software Engineering at Université Laval
 - 📫 How to reach me : Aymane Bencheikh on Linkedin
 
 <!---
